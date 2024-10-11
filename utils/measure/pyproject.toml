@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-aiohttp = "^3.8"
+aiohttp = "^3.10"
 chardet = "^5.1"
 charset-normalizer = "^3.1"
 homeassistant-api = "^4.1"
